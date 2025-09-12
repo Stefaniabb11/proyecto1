@@ -1,13 +1,16 @@
 🧾 Nota Metodológica
 
 Fuentes
+
 Los datos utilizados en esta aplicación provienen del graficador y descargador de series del Banco de la República de Colombia (Suameca). 
 suameca.banrep.gov.co
 
 Periodo exacto
+
 Las series cubren los años 2010 a 2024.
 
 Frecuencia
+
 Los datos tienen una frecuencia anual, es decir, se registra un valor por año para cada variable.
 
 Transformaciones realizadas
@@ -29,4 +32,5 @@ Supuestos.
 
 🖥️ Link App ->
 https://proyec-1.streamlit.app/
+
 
