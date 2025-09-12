@@ -26,3 +26,7 @@ En esta aplicación llamada Pulso Económico, el usuario encontrará lo siguient
 Supuestos.
 - Los gráficos reflejan los datos tal como los presenta la fuente, sin modificaciones sustanciales más allá de las transformaciones técnicas mencionadas.
 - No se alteran los datos originales (no se realizan estimaciones ni interpolaciones), solo se extrae el valor más reciente del dato mensual de desempleo para cada año, de modo que todas las series se muestran con periodicidad anual. Se asume que ese último valor mensual es representativo del año completo para los propósitos de comparación con las otras variables que ya tienen frecuencia anual.
+
+🖥️ Link App ->
+https://proyec-1.streamlit.app/
+
